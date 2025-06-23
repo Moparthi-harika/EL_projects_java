@@ -1,1 +1,1 @@
-# EL_projects_java
+Created a simple CalculatorApp using basic Java that  allows users to perform basic arithmetic operations using integer inputs. It demonstrates the use of Scanner for input, conditional logic, loops, and method creation.
